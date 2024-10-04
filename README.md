@@ -1,2 +1,2 @@
 # delta-name
-This is a demo for git and github class
+This is a demo for git and github class. commiting change
